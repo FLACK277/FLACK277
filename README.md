@@ -14,7 +14,6 @@ I'm a passionate **Computer Science and Data Science** student at **Manipal Univ
 - 🌱 Exploring **Deep Learning** and **Computer Vision** applications
 - 💡 Love building **AI-powered solutions** with clean, user-friendly interfaces
 - 🎯 Seeking **internship opportunities** to apply my skills in innovative projects
-- 🏆 **2nd Place** winner at **Smart India Hackathon 2024** among 300+ teams
 
 ## 💻 Tech Stack
 
@@ -101,13 +100,6 @@ I'm a passionate **Computer Science and Data Science** student at **Manipal Univ
   
 </div>
 
-## 🏅 Achievements & Recognition
-
-- 🥈 **2nd Place** - Smart India Hackathon (SIH) 2024 among 300+ teams
-- 🏆 **Finalist** - MUJ Hackathon 2023 & Datathon 2024
-- 💻 **400+ Problems Solved** on [LeetCode](https://leetcode.com/u/Flack_/) - Demonstrating strong algorithmic thinking
-- 📚 **Academic Excellence** - 9.38 CGPA in Computer Science & Data Science
-- 🎓 **Consistent High Performer** - 92.5% in ISC Class 12th, 93.8% in ICSE Class 10th
 
 ## 🎯 What I'm Looking For
 
