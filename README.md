@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Science and Data Science** student at **Manipal University** with a **9.38 CGPA**, specializing in building intelligent systems that solve real-world problems. My expertise spans across **Machine Learning**, **Full-Stack Development**, and **Data Analytics**.
+I'm a passionate **Computer Science and Data Science** student at **Manipal University** with a **9.40 CGPA**, specializing in building intelligent systems that solve real-world problems. My expertise spans across **Machine Learning**, **Full-Stack Development**, and **Data Analytics**.
 
 - 🔭 Currently working on **IPO Price Prediction** using advanced ML models
 - 🌱 Exploring **Deep Learning** and **Computer Vision** applications
