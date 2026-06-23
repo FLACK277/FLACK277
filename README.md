@@ -16,7 +16,7 @@ I'm a **Computer Science and Data Science** student at **Manipal University** wi
 - 🎯 Seeking **internship opportunities** in ML/AI and full-stack engineering
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDhmbmUweTlqdjdseGp3NzF6bnI0Y3I0eHFvN2FzcGdraDlnNjF5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="400">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9qdzVjOWx1cjJrNGRpYjA0MjJ4N3gweGdvZTU5aXM4am81ODdnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" width="400">
 </div>
 
 ## 💻 Tech Stack
