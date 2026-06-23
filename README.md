@@ -143,6 +143,14 @@ I'm a **Computer Science and Data Science** student at **Manipal University** wi
 
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/FLACK277/FLACK277/output/github-contribution-grid-snake.svg)
+
+</div>
+
 ## 🛰️ Skill Proficiency
 
 <div align="center">
