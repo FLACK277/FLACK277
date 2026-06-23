@@ -139,8 +139,6 @@ I'm a **Computer Science and Data Science** student at **Manipal University** wi
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FLACK277&theme=react-dark&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=FLACK277&theme=radical&no-frame=true&row=1&column=7)
-
 </div>
 
 ## 🐍 Contribution Snake
@@ -148,14 +146,6 @@ I'm a **Computer Science and Data Science** student at **Manipal University** wi
 <div align="center">
 
 ![snake gif](https://raw.githubusercontent.com/FLACK277/FLACK277/output/github-contribution-grid-snake.svg)
-
-</div>
-
-## 🗿 3D Contribution Calendar
-
-<div align="center">
-
-![3D contrib](https://raw.githubusercontent.com/FLACK277/FLACK277/output/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
