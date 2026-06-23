@@ -151,6 +151,14 @@ I'm a **Computer Science and Data Science** student at **Manipal University** wi
 
 </div>
 
+## 🗿 3D Contribution Calendar
+
+<div align="center">
+
+![3D contrib](https://raw.githubusercontent.com/FLACK277/FLACK277/output/profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
 ## 🛰️ Skill Proficiency
 
 <div align="center">
